@@ -1,0 +1,26 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "move forward one foot",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "forward"
+        },
+        "distance": {
+            "amount": {
+                "pvf_type": "number",
+                "pvf_example": "1"
+            },
+            "unit": {
+                "pvf_type": "string",
+                "pvf_example": "feet"
+            }
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "move"
+        }
+    }
+}

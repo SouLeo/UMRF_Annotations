@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "robot face north",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "north"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "face"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "TaTurn",
+    "package_name": "ta_turn",
+    "description": "turn 180",
+    "effect": "synchronous",
+    "input_parameters": {
+        "distance": {
+            "amount": {
+                "pvf_type": "number",
+                "pvf_example": "180"
+            },
+            "unit": {
+                "pvf_type": "string"
+            }
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "turn"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "no if you can just back up to the entryway of that room",
+    "effect": "synchronous",
+    "input_parameters": {
+        "location": {
+            "pvf_type": "string",
+            "pvf_example": "the entryway of that room"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "back up"
+        }
+    }
+}

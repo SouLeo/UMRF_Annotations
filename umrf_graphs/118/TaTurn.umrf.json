@@ -1,0 +1,16 @@
+{
+    "name": "TaTurn",
+    "package_name": "ta_turn",
+    "description": "turn right",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "right"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "turn"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TaGo",
+    "package_name": "ta_go",
+    "description": "go to the doorway to your left",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "to the doorway to your left"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "go"
+        }
+    }
+}

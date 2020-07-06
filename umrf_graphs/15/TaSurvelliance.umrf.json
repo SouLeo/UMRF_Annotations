@@ -1,0 +1,16 @@
+{
+    "name": "TaSurvelliance",
+    "package_name": "ta_survelliance",
+    "description": "take another picture",
+    "effect": "synchronous",
+    "input_parameters": {
+        "survey_type": {
+            "pvf_type": "string",
+            "pvf_example": "picture"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "take"
+        }
+    }
+}

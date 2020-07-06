@@ -1,0 +1,16 @@
+{
+    "name": "TaSurvelliance",
+    "package_name": "ta_survelliance",
+    "description": "can you take a picture",
+    "effect": "synchronous",
+    "input_parameters": {
+        "survey type": {
+            "pvf_type": "string",
+            "pvf_example": "a picture"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "take"
+        }
+    }
+}

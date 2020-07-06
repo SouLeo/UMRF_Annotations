@@ -1,0 +1,14 @@
+{
+    "name": "DataTransfer",
+    "package_name": "data_transfer",
+    "description": "send picture",
+    "effect": "synchronous",
+    "input_parameters": {
+        "data type": {
+            "pvf_type": "string"
+        },
+        "verb": {
+            "pvf_type": "string"
+        }
+    }
+}

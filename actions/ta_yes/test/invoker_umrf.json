@@ -1,0 +1,13 @@
+{
+    "name": "TaYes",
+    "package_name": "ta_yes",
+    "description": "please and thank you",
+    "suffix": "0",
+    "effect": "synchronous",
+    "input_parameters": {
+        "verb": {
+            "pvf_type": "string",
+            "pvf_value": "MODIFY THIS FIELD"
+        }
+    }
+}

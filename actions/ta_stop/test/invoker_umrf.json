@@ -1,0 +1,13 @@
+{
+    "name": "TaStop",
+    "package_name": "ta_stop",
+    "description": "stop",
+    "suffix": "0",
+    "effect": "synchronous",
+    "input_parameters": {
+        "verb": {
+            "pvf_type": "string",
+            "pvf_value": "MODIFY THIS FIELD"
+        }
+    }
+}

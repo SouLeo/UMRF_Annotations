@@ -1,0 +1,16 @@
+{
+    "name": "TaTransferData",
+    "package_name": "ta_transfer_data",
+    "description": "send image",
+    "effect": "synchronous",
+    "input_parameters": {
+        "data type": {
+            "pvf_type": "string",
+            "pvf_example": "image"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "send"
+        }
+    }
+}

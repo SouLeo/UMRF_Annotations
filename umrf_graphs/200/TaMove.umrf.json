@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "move to alley Door 1",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "to alley Door 1"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "move"
+        }
+    }
+}

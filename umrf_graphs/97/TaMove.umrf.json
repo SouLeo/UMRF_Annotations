@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "move to cement block",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "to cement block"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "move"
+        }
+    }
+}

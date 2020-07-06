@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "move into TV hallway",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "into TV hallway"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "move"
+        }
+    }
+}

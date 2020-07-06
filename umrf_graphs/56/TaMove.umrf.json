@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "make a u turn",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "u turn"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "make"
+        }
+    }
+}

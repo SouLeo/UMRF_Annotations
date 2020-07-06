@@ -1,0 +1,16 @@
+{
+    "name": "TaGo",
+    "package_name": "ta_go",
+    "description": "can you go around",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "around"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "go"
+        }
+    }
+}

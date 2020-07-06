@@ -1,0 +1,17 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "and then go into the other entryway on the left side of that room",
+    "suffix": "0",
+    "effect": "synchronous",
+    "input_parameters": {
+        "location": {
+            "pvf_type": "string",
+            "pvf_value": "MODIFY THIS FIELD"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_value": "MODIFY THIS FIELD"
+        }
+    }
+}

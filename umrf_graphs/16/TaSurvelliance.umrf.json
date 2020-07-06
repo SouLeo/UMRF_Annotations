@@ -1,0 +1,12 @@
+{
+    "name": "TaSurvelliance",
+    "package_name": "ta_survelliance",
+    "description": "image",
+    "effect": "synchronous",
+    "input_parameters": {
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "image"
+        }
+    }
+}

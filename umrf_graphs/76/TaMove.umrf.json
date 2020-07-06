@@ -1,0 +1,16 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "and leave this room",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "this room"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "leave"
+        }
+    }
+}

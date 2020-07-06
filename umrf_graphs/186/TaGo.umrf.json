@@ -1,0 +1,16 @@
+{
+    "name": "TaGo",
+    "package_name": "ta_go",
+    "description": "go ahead",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "ahead"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "go"
+        }
+    }
+}

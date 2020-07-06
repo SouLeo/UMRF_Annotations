@@ -1,0 +1,16 @@
+{
+    "name": "TaGo",
+    "package_name": "ta_go",
+    "description": "can you go that way",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "that way"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "go"
+        }
+    }
+}

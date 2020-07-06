@@ -1,0 +1,26 @@
+{
+    "name": "TaMove",
+    "package_name": "ta_move",
+    "description": "move 3 feet towards shoe start door",
+    "effect": "synchronous",
+    "input_parameters": {
+        "direction": {
+            "pvf_type": "string",
+            "pvf_example": "towards shoe start door"
+        },
+        "distance": {
+            "amount": {
+                "pvf_type": "number",
+                "pvf_example": "3"
+            },
+            "unit": {
+                "pvf_type": "string",
+                "pvf_example": "feet"
+            }
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "move"
+        }
+    }
+}
