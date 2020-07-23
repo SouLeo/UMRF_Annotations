@@ -6,7 +6,7 @@
     "input_parameters": {
         "verb": {
             "pvf_type": "string",
-            "pvf_value": "MODIFY THIS FIELD"
+            "pvf_example": "stop"
         }
     }
 }

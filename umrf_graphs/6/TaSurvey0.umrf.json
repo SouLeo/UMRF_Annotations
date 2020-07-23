@@ -1,0 +1,16 @@
+{
+    "name": "TaSurvey",
+    "package_name": "ta_survey",
+    "description": " take a photo in front and behind you",
+    "effect": "synchronous",
+    "input_parameters": {
+        "location": {
+            "pvf_type": "string",
+            "pvf_example": "in front and behind you"
+        },
+        "survey_type": {
+            "pvf_type": "string",
+            "pvf_example": "photo"
+        }
+    }
+}

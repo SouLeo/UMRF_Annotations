@@ -1,7 +1,7 @@
 {
     "name": "TaStop",
     "package_name": "ta_stop",
-    "description": "stop",
+    "description": "nope stop stop",
     "effect": "synchronous",
     "input_parameters": {
         "verb": {

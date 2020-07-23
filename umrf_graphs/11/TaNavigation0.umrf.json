@@ -1,0 +1,20 @@
+{
+    "name": "TaNavigation",
+    "package_name": "ta_navigation",
+    "description": "back up into hallway ",
+    "effect": "synchronous",
+    "input_parameters": {
+        "extent": {
+            "pvf_type": "string",
+            "pvf_example": "until you reach the wall behind you"
+        },
+        "location": {
+            "pvf_type": "string",
+            "pvf_example": "hallway"
+        },
+        "verb": {
+            "pvf_type": "string",
+            "pvf_example": "back up"
+        }
+    }
+}

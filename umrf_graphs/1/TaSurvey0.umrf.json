@@ -1,0 +1,22 @@
+{
+    "name": "TaSurvey",
+    "package_name": "ta_survey",
+    "description": "take a photo behind the tv",
+    "effect": "synchronous",
+    "input_parameters": {
+        "location": {
+            "pvf_type": "string",
+            "pvf_example": "behind the tv"
+        },
+        "survey_type": {
+            "pvf_type": "string",
+            "pvf_example": "photo"
+        }
+    },
+    "parents": [
+        {
+            "name": "TaNavigation",
+            "id": 0
+        }
+    ]
+}

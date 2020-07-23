@@ -1,10 +1,11 @@
 {
-    "name": "TaStop",
-    "package_name": "ta_stop",
-    "description": "nope stop stop",
+    "name": "TaSurvey",
+    "package_name": "ta_survey",
+    "description": "take a photo",
+    "suffix": "0",
     "effect": "synchronous",
     "input_parameters": {
-        "verb": {
+        "survey_type": {
             "pvf_type": "string",
             "pvf_value": "MODIFY THIS FIELD"
         }
